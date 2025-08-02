@@ -48,6 +48,8 @@ proyecto-ia-sentimientos/
 │   └── schemas/
 ├── dashboard/                 # Visualización interactiva (ej. Streamlit)
 ├── tests/                     # Pruebas unitarias
+├── docs/                      # Documentación técnica
+└── docker/                    # Archivos para contenedores Docker
 ```
 ## Componentes Técnicos
 
@@ -90,6 +92,3 @@ Construir una plataforma robusta y escalable que permita:
 
  - Almacenamiento: PostgreSQL / MongoDB
 
-
-├── docs/                      # Documentación técnica
-└── docker/                    # Archivos para contenedores Docker
