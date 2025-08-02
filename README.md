@@ -1,12 +1,10 @@
 # Proyecto IA - Sentimientos
 
-## 📌 Descripción
+## Descripción
 Este proyecto implementa un pipeline completo de Inteligencia Artificial para análisis de sentimientos, desde la ingesta y limpieza de datos hasta el modelado y despliegue en una API.  
 Incluye scripts, notebooks, modelos y una estructura modular para desarrollo profesional.
 
----
-
-## 📂 Estructura del Proyecto
+## Estructura del Proyecto
 ```plaintext
 proyecto-ia-sentimientos/
 ├── README.md                  # Documentación del proyecto
